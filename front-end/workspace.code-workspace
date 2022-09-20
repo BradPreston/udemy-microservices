@@ -8,6 +8,9 @@
     },
     {
       "path": "../udemy-project"
+    },
+    {
+      "path": "../authentication-service"
     }
   ],
   "settings": {}
